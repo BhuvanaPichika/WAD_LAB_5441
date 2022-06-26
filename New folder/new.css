@@ -1,0 +1,29 @@
+p {
+    background-color: lightgrey;
+    text-align: justify;
+    width: 300px;
+    border: 15px double red;
+    padding: 50px;
+    margin-left: 50px;
+  }
+  h4{
+      background-color: plum;
+      text-align: center;
+      width: 100px;
+      word-spacing:10 px;
+      border: 10px dashed green;
+      padding: 50px;
+      margin: 50px;
+  }
+  h5{
+      background-color: skyblue;
+      text-align: left;
+      text-transform: uppercase;
+      width: 200px;
+      border: 10px solid peru;
+      padding-left: 10px;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      padding-right: 10px;
+      margin-left: 50px;
+  }

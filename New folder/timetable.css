@@ -1,0 +1,25 @@
+table{
+    border: 2px solid black;
+    margin: 50px;
+    font-family:'Courier New', Courier, monospace;
+    background:#CCCCFF;
+}
+h4{
+    background-origin: padding;
+    font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border:5px  seagreen;
+    margin: 40px;
+    text-align: justify;
+    
+}
+marquee
+{
+    border: 10px solid green;
+    margin: 10px;
+    font-family:'Courier New', Courier, monospace;
+    background-color: #CCCCFF;
+}
+body{
+    background-color: #FFA07A; 
+}
